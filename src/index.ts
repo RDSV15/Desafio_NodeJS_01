@@ -39,3 +39,4 @@ app.listen(PORT, () => {
   // Escreva aqui a sua msg para o mundo
   
 });
+console.log("Olá mundo, bora quebrr tudo!");
